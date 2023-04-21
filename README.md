@@ -4,7 +4,7 @@
 
 # 1.GPIO
 
-![image.png](.\assets\RaspberryGPIO.png)
+![image.png](https://github.com/Kouchay/RaspQt5.14.2/blob/main//assets/RaspberryGPIO.png)
 
 ## 1.bcm2835库
 
@@ -62,7 +62,7 @@ PasswordAuthentication no
 
 ## 1.GPIO模拟串口
 
-![image.png](F:\笔记\开发笔记\assets\RaspberryGPIO_UART.png)
+![image.png](https://github.com/Kouchay/RaspQt5.14.2/blob/main//assets/RaspberryGPIO_UART.png)
 
 ```bash
 #配置串口
@@ -108,11 +108,11 @@ sudo raspi-config
 
 进入如下界面
 
-![](.\assets\raspi-config.jpg)
+![](https://github.com/Kouchay/RaspQt5.14.2/blob/main//assets/raspi-config.jpg)
 
 上下键选择第3项 Interfacing Options（接口选项），回车进入：
 
-![](.\assets\Interfaceing Options.png)
+![](https://github.com/Kouchay/RaspQt5.14.2/blob/main//assets/Interfaceing Options.png)
 
 选择I6,打开Serial Port 回到主界面 选择finish后重启
 
